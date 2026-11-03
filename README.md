@@ -8,7 +8,7 @@ academic writing, and manuscript structure guidance.
 
 ## Download
 
-- Website: [`index.html`](index.html) — deployed on Vercel
+- Website: https://nf-taste.vercel.app
 - Skill package: [`nf-taste.zip`](nf-taste.zip)
 - Source: [`skill/nf-taste/`](skill/nf-taste/)
 
